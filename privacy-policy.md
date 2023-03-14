@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Privacy policy"
 permalink: /privacy-policy
+---
 
 <p>The privacy policy is as follows: no personal data is collected within the application, thus not shared with anyone and cannot be given to any third party, under any circumstances.</p> 
   
